@@ -25,5 +25,6 @@
 $txt = "PHP";
 echo "I love $txt!";
 ?>
+<a href="text023.php">Proximo</a>
 </body>
 </html>
