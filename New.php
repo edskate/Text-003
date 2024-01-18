@@ -8,13 +8,17 @@
         body{
             margin: 50px ;
             background-color: #c0c0c0;
+           
+        }
+        h1{
+            text-shadow: 10px 10px 10px #000;
         }
     </style>
 </head>
 <body>
     <h1>New text php.</h1>
     <?php 
-    echo "My first PHP script! <br>";
+    echo "<h1>My first PHP script! </h1><br>";
     ?>
     <?php
 
