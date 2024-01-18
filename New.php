@@ -11,7 +11,7 @@
     echo "My first PHP script!";
     ?>
     <?php
-    <br>
+
 $txt = "PHP";
 echo "I love $txt!";
 ?>
