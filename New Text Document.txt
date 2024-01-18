@@ -1,0 +1,7 @@
+
+
+<?php
+// Programa PHP simples para exibir uma mensagem na tela
+$mensagem = "Olá, Mundo!";
+echo "<h1>$mensagem</h1>";
+?>
