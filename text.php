@@ -18,7 +18,7 @@
 $mensagem = "<h1>Olá, Mundo!</h1>";
 echo "<h1>$mensagem</h1>";
 ?>
-
+<a href="New.php">Text new php.</a>
 </body>
 </html>
 
