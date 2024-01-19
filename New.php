@@ -24,6 +24,7 @@
 
 $txt = "PHP";
 echo "I love $txt!";
+echo "Text com cores";
 ?>
 <a href="text023.php">Proximo</a>
 </body>
